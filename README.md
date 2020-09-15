@@ -4,3 +4,6 @@
 
 ## Installation
 [Инструкция по установке](https://telegra.ph/Konvertaciya-v-tekst-09-15)
+
+## Contacts:
+yudovv@gmail.com
