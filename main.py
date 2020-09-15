@@ -154,6 +154,7 @@ link3 = Label(frame, text="Convert to .wav", fg="blue",  bg='white', cursor="han
 link3.pack()
 link3.bind("<Button-1>", lambda e: callback("https://audio.online-convert.com/ru/convert-to-wav"))
 
+
 title1 = Label(frame, text='Для роботи програми необхідне стабільне підключення до мережі Інтернет', bg='white', font=30)
 title1.pack()
 
